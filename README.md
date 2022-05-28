@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </br>
 
 ## Github Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashver&theme=great-gatsby&show_icons=true&count_private=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashver&theme=great-gatsby&show_icons=true" align="center" /></div>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/prashant-verma-hbti/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbti" height="60" width="80" /></a>
