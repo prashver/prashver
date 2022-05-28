@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 
 <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1><br>
-<h2><div align="center">I'm Prashant Verma, a full-time Programmer Analyst 👨‍💻 based out of Pune 🚀.</div></h2><br>
+<h3><div align="center">I'm Prashant Verma 😊, an aspiring data scientist 📈 who wishes to solve problems in the world by means of data.</div></h3><br>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="500" >
 
 ##  👨‍🎓 About me:
 - 🔭 Exploring more datasets and enhancing my analytical thinking.
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 </br>
 
 ## Github Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashver&show_icons=true&count_private=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashver&theme=great-gatsby&show_icons=true&count_private=true" align="center" /></div>
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/prashant-verma-hbti/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbti" height="60" width="80" /></a>
-</p>
+
