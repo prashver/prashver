@@ -49,6 +49,7 @@ Here are some ideas to get you started:
    ##  💥  Other:
 <p align="left"> 
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4qv5D?ver=6b44&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true" alt="tensorflow" width="40" height="40"/> </a>
+    <a href="https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm" target="_blank"> <img src="https://help.tableau.com/current/pro/desktop/en-us/Resources/tableau-logo.png" alt="tensorflow" width="100" height="40"/> </a>
     <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="tensorflow" width="70" height="40"/> </a>
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="40"/> </a> 
