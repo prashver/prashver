@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
-<h3><div align="center">I'm Prashant Verma 😊, an data science 📈 aspirant, who wishes to solve problems in the world by means of data.</div></h3><br>
+<h3><div align="center">I'm Prashant Verma 😊, a data science 📈 aspirant, who wishes to solve problems in the world by means of data.</div></h3><br>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="500" >
 
