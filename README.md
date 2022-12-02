@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 </br>
 
 <details>
-    <h3><summary> 📊 Github Stats</summary></h3>
+  <summary> 📊 Github Stats</summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prashver&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
 </details>
 
