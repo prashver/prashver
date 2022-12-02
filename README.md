@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{prashver}/count.svg) 
 
 ### 🤝Connect with me:
-<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="40" width="90" /></a>
+<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="30" width="90" /></a>
 
