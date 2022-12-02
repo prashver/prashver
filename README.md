@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="500" >
 
-##  👨‍🎓 About me:
+###  👨‍🎓 About me:
 - 🔭 Exploring more datasets and enhancing my analytical thinking.
 - 💻 Learning more about Deep Learning and Tensorflow.
 - 🚀 Always ready to collaborate for Dev Experiments.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking.<br>
 </br>
 
-## 🔥 Languages:
+### 🔥 Languages:
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="express" width="44" height="44"/> </a>
     <a href="https://isocpp.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KysS-Fj-RgPNEg0XK_6GJINJS-mf8f6zSxcZID9U7xsVTZPkPVtAqfY5E3kd0nTJnb0&usqp=CAU" alt="express" width="51" height="51" /> </a>  
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> 
 </p>
    
-  ## ⭐️ Libraries and Frameworks:
+ ### ⭐️ Libraries and Frameworks:
 <p align="left"> 
     <a href="https://numpy.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2JRr92k_oDy42tMe3RPwfU0r_5Rk_S2jwlU2WphT94jFMCRCbjASEZ7j1wbD2CPOzx6w&usqp=CAU" alt="express" width="44" height="44" / > </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
   
-   ##  💥  Other:
+  ###  💥  Other:
 <p align="left"> 
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4qv5D?ver=6b44&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm" target="_blank"> <img src="https://help.tableau.com/current/pro/desktop/en-us/Resources/tableau-logo.png" alt="tensorflow" width="100" height="40"/> </a>
@@ -57,8 +57,12 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-## 📊Github Stats:
+### 📊Github Stats:
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prashver&theme=great-gatsby&show_icons=true" align="center" /></div>
+
+### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{prashver}/count.svg) 
 
 ## 🤝Connect with me:
 <a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="60" width="80" /></a>
