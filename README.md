@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
-<h3><div align="center">I'm Prashant Verma, a developer working with Python and other tools. I enjoy working on projects and try to learn something new everytime.</div></h3><br>
+<h3><div align="center">I'm Prashant Verma, a developer mainly working with Python and other tools. I enjoy working on projects and try to learn something new everytime.</div></h3><br>
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="500" >
 
@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{prashver}/count.svg) 
 
 ### 🤝Connect with me:
-<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="40" width="80" /></a>
+<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="40" width="90" /></a>
 
