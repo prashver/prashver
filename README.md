@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="500" >
 
 ###  👨‍🎓 About me:
-- 🔭 Exploring more datasets and enhancing my analytical thinking.
-- 💻 Learning more about Deep Learning and Tensorflow.
+- 🔭 Exploring new AI tools and methologies and trying to learn more of it.
+- 💻 Learning more about NLP, Deep Learning and Tensorflow.
 - 🚀 Always ready to collaborate for Dev Experiments.
 - ⚡ Fun fact: I love to attend Meetups for learning & Conferences for Networking.<br>
 </br>
