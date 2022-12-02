@@ -64,6 +64,6 @@ Here are some ideas to get you started:
   
 ![Visitor Count](https://profile-counter.glitch.me/{prashver}/count.svg) 
 
-## 🤝Connect with me:
-<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="60" width="80" /></a>
+### 🤝Connect with me:
+<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="40" width="80" /></a>
 
