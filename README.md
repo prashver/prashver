@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
 <h3><div align="center">I'm Prashant Verma, a developer mainly working with Python and other tools. I enjoy working on projects and try to learn something new everytime.</div></h3><br>
 
-<div align="center"><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="800" ></div>
+<div align="center"><img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="Coder GIF" width="600" ></div>
 
 ###  👨‍🎓 About me:
 - 🔭 Exploring new AI tools and methologies and trying to learn more of it.
