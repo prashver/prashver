@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   ###  💥  Other:
 <p align="left"> 
     <a href="https://support.microsoft.com/en-us/excel" target="_blank"> <img src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4qv5D?ver=6b44&q=100&h=75&w=75&b=%23FFFFFFFF&aim=true" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://help.tableau.com/current/pro/desktop/en-us/gettingstarted_overview.htm" target="_blank"> <img src="https://help.tableau.com/current/pro/desktop/en-us/Resources/tableau-logo.png" alt="tensorflow" width="150" height="40"/> </a>
+    <a href="https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started" target="_blank"> <img src="https://news.microsoft.com/wp-content/uploads/prod/sites/113/2017/06/power-bi-logo.jpg" alt="tensorflow" width="80" height="40"/> </a>
     <a href="https://git-scm.com/doc" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png" alt="tensorflow" width="70" height="40"/> </a>
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="40"/> </a> 
@@ -67,5 +67,5 @@ Here are some ideas to get you started:
 ![Visitor Count](https://profile-counter.glitch.me/{prashver}/count.svg) 
 
 ### 🤝Connect with me:
-<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="30" width="90" /></a>
+<a href="https://www.linkedin.com/in/prashant-verma-hbtu/" target="blank"><img align="center" src="https://t3.ftcdn.net/jpg/03/95/39/16/240_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg" alt="https://www.linkedin.com/in/prashant-verma-hbtu" height="40" width="100" /></a>
 
